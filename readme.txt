@@ -1,6 +1,6 @@
 프로젝트 
 
-정훈
+정훈,
 
 Main - 1.Bank.java
 2. UserInfo
